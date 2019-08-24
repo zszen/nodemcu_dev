@@ -1,0 +1,17 @@
+电源
+vcc -> vin
+gnd -> gnd
+
+震动模块
+vin -> v33
+gnd -> gnd
+do -> d5
+
+control
+vout -> D1
+//gnd -> gnd
+
+mos
++
+-
+g - control
